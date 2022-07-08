@@ -1,6 +1,6 @@
 # Macros for target-lexicon
 
-Provides a `triple` macros to construct static a [target-lexicon Triple](https://docs.rs/target-lexicon/latest/target_lexicon/struct.Triple.html).
+Provides a `triple` macro to construct static a [target-lexicon Triple](https://docs.rs/target-lexicon/latest/target_lexicon/struct.Triple.html).
 
 ## Example
 
